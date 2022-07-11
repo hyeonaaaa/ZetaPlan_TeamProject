@@ -4,7 +4,7 @@
 }
 
 .title-wrap {
-    background: url(../../../public/img/mainFullpage/detail/taking-notes-and-working-on-laptop.jpg)no-repeatcenter/cover;
+    background: url(../../../public/img/mainFullpage/detail/taking-notes-and-working-on-laptop.jpg)no-repeat center/cover;
     background-size: 100%;
     text-align: center;
     line-height: 2;
@@ -65,12 +65,12 @@
 .logo {
     width: 16.667vw;
     height: 5.556vw;
-    background: url(./../../../public/img/common/logo_black.png) no-repeatcenter / cover;
+    background: url(./../../../public/img/common/logo_black.png) no-repeat center / cover;
     font-size: 0;
     margin-right: 80px;
     width: 250px;
     height: 60px;
-    background: url(./../../../public/img/common/logo_white.png) no-repeatcenter / cover;
+    background: url(./../../../public/img/common/logo_white.png) no-repeat center / cover;
     font-size: 0;
 
 }
